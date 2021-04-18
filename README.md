@@ -1,7 +1,7 @@
 ### Hi there, I'm y_xiuzhu! 👋
 
 - 🔭 I’m currently looking for a job now.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I am now learning front-end technology.
 - ❤️ Hobby: code & 🎾 & 🍖 🍒 
 - 👋 My personal [bolg site](https://blog.csdn.net/haotian1997)
 <!--
