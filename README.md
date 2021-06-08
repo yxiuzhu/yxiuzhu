@@ -1,4 +1,4 @@
-### Hi there, I'm y_xiuzhu! 👋
+### Hi there, I'm y_xiuzhu! <img align="right" alt="GIF" src="https://github.com/nilax97/nilax97/blob/master/code.gif?raw=true" width="375" height="240" />
 
 - 🔭 I’m currently looking for a job now.
 - 🌱 I am now learning front-end technology.
